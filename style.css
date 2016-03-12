@@ -1,6 +1,6 @@
 @import url(charter/charter.css);
 @import url(cooperhewitt/cooperhewitt.css);
-p, .charter {
+body, .charter {
   font-family: charter, serif;
 }
 h1, .cooperhewitt {
